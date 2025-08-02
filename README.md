@@ -24,8 +24,8 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-excel.webp" alt="Filament Excel"> | <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-environment-indicator.webp" alt="Filament Environment Indicator"> | <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-activity-log.webp" alt="Filament Activity Log"> |
-| <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight-pro.webp" alt="Filament Spotlight Pro">|<img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight.webp" alt="Filament Spotlight">|<img alt="Filament Changelog" src="https://filamentphp.com/images/content/plugins/images/pxlrbt-changelog.webp">|
+| <a href="https://github.com/pxlrbt/filament-excel"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-excel.webp" alt="Filament Excel"></a> | <a href="https://github.com/pxlrbt/filament-environment-indicator"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-environment-indicator.webp" alt="Filament Environment Indicator"></a> | <a href="https://github.com/pxlrbt/filament-activity-log"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-activity-log.webp" alt="Filament Activity Log"></a> |
+| <a href="https://filament.pxlrbt.de/spotlight-pro/"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight-pro.webp" alt="Filament Spotlight Pro"></a>|<a href="https://github.com/pxlrbt/filament-spotlight"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight.webp" alt="Filament Spotlight"></a>|<a href="https://filament.pxlrbt.de/changelog/"><img alt="Filament Changelog" src="https://filamentphp.com/images/content/plugins/images/pxlrbt-changelog.webp"></a>|
 
 ## Laravel Projects
 
