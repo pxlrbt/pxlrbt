@@ -10,7 +10,7 @@
 - [phpc.social/@denniskoch](https://phpc.social/@denniskoch)
 
 ## Filament Projects
-
+<!--
 | Project | Stars |
 | --- | --- |
 | [Activity Log](https://github.com/pxlrbt/filament-activity-log) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-activity-log?style=flat&color=rgba(241,145,26)) |
@@ -20,6 +20,12 @@
 | [Spotlight](https://github.com/pxlrbt/filament-spotlight) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-spotlight?style=flat&color=rgba(241,145,26)) |
 | [Spotlight Pro](https://filament.pxlrbt.de/spotlight-pro/) | 💰 |
 | [Translate Action](https://github.com/pxlrbt/filament-translate-action) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-translate-action?style=flat&color=rgba(241,145,26)) |
+-->
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-excel.webp" alt="Filament Excel"> | <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-environment-indicator.webp" alt="Filament Environment Indicator"> | <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-activity-log.webp" alt="Filament Activity Log"> |
+| <img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight-pro.webp" alt="Filament Spotlight Pro">|<img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight.webp" alt="Filament Spotlight">|<img alt="Filament Changelog" src="https://filamentphp.com/images/content/plugins/images/pxlrbt-changelog.webp">|
 
 ## Laravel Projects
 
