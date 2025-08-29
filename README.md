@@ -10,48 +10,14 @@
 - [phpc.social/@denniskoch](https://phpc.social/@denniskoch)
 
 ## Filament Projects
-<!--
-| Project | Stars |
-| --- | --- |
-| [Activity Log](https://github.com/pxlrbt/filament-activity-log) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-activity-log?style=flat&color=rgba(241,145,26)) |
-| [Changelog](https://filament.pxlrbt.de/changelog/) | 💰 |
-| [Environment Indicator](https://github.com/pxlrbt/filament-environment-indicator) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-environment-indicator?style=flat&color=rgba(241,145,26)) |
-| [Excel](https://github.com/pxlrbt/filament-excel) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-excel?style=flat&color=rgba(241,145,26)) |
-| [Spotlight](https://github.com/pxlrbt/filament-spotlight) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-spotlight?style=flat&color=rgba(241,145,26)) |
-| [Spotlight Pro](https://filament.pxlrbt.de/spotlight-pro/) | 💰 |
-| [Translate Action](https://github.com/pxlrbt/filament-translate-action) | ![Stars](https://img.shields.io/github/stars/pxlrbt/filament-translate-action?style=flat&color=rgba(241,145,26)) |
--->
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <a href="https://github.com/pxlrbt/filament-excel"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-excel.webp" alt="Filament Excel"></a> | <a href="https://github.com/pxlrbt/filament-environment-indicator"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-environment-indicator.webp" alt="Filament Environment Indicator"></a> | <a href="https://github.com/pxlrbt/filament-activity-log"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-activity-log.webp" alt="Filament Activity Log"></a> |
-| <a href="https://filament.pxlrbt.de/spotlight-pro/"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight-pro.webp" alt="Filament Spotlight Pro"></a>|<a href="https://github.com/pxlrbt/filament-spotlight"><img src="https://filamentphp.com/images/content/plugins/images/pxlrbt-spotlight.webp" alt="Filament Spotlight"></a>|<a href="https://filament.pxlrbt.de/changelog/"><img alt="Filament Changelog" src="https://filamentphp.com/images/content/plugins/images/pxlrbt-changelog.webp"></a>|
+| <a href="https://github.com/pxlrbt/filament-excel"><img src="https://denniskoch.dev/assets/images/packages/filament-excel.webp" alt="Filament Excel"></a> | <a href="https://github.com/pxlrbt/filament-environment-indicator"><img src="https://denniskoch.dev/assets/images/packages/filament-environment-indicator.webp" alt="Filament Environment Indicator"></a> | <a href="https://github.com/pxlrbt/filament-activity-log"><img src="https://denniskoch.dev/assets/images/packages/filament-activity-log.webp" alt="Filament Activity Log"></a> |
+| <a href="https://filament.pxlrbt.de/spotlight-pro/"><img src="https://denniskoch.dev/assets/images/packages/filament-spotlight-pro.webp" alt="Filament Spotlight Pro"></a>|<a href="https://github.com/pxlrbt/filament-spotlight"><img src="https://denniskoch.dev/assets/images/packages/filament-spotlight.webp" alt="Filament Spotlight"></a>|<a href="https://filament.pxlrbt.de/changelog/"><img alt="Filament Changelog" src="https://denniskoch.dev/assets/images/packages/filament-changelog.webp"></a>|
 
 ## Laravel Projects
 
-| Project | Stars |
-| --- | --- |
-| [Laravel Database State](https://github.com/pxlrbt/laravel-database-state) | ![Stars](https://img.shields.io/github/stars/pxlrbt/laravel-database-state?style=flat&color=rgba(241,145,26)) |
-| [Laravel Pdfable](https://github.com/pxlrbt/laravel-pdfable) | ![Stars](https://img.shields.io/github/stars/pxlrbt/laravel-pdfable?style=flat&color=rgba(241,145,26)) |
-
-
-
-<!--
-| 🎁 Projects                                                           | 🚀 Releases                                                                                                | 📥 Downloads                                                                                           | ⭐ Stars                                                                                        |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|       | ![Latest Version](https://img.shields.io/packagist/v/jeffersongoncalves/filakit.svg?style=flat-square)     | ![Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filakit.svg?style=flat-square)     | !     |
-
-
-**pxlrbt/pxlrbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <a href="https://github.com/pxlrbt/laravel-database-state"><img src="https://denniskoch.dev/assets/images/packages/laravel-database-state.webp" alt="Laravel Database State"></a> | <a href="https://github.com/pxlrbt/laravel-pdfable"><img src="https://denniskoch.dev/assets/images/packages/laravel-pdfable.webp" alt="Laravel Pdfable"></a> | &nbsp; |
